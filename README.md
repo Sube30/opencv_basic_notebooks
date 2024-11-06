@@ -8,7 +8,7 @@ The OpenCV Bootcamp covers key topics in computer vision, from image processing 
 - `03_Edge_Detection.ipynb` - Methods for detecting edges and contours in images.
 
 ## Installation
-- Clone this repository: `git clone <repository-url>`
+- Clone this repository
 - Install the necessary packages:
   ```bash
   pip install -r requirements.txt
