@@ -5,7 +5,7 @@ The OpenCV Bootcamp covers key topics in computer vision, from image processing 
 ## Contents
 - `01_Image_Basics.ipynb` - Introduction to image handling, loading, and Color space transformations.
 - `02_Basic Image Manipulation.ipynb` - Techniques for Accessing and manipulating pixels, resizing images, cropping images and flipping images.
-- `03_Image_Annotation.ipynb` .
+- `03_Image_Annotation.ipynb` - Techniques for annotating the images using cv2.line, cv2.circle, cv2.rectangle, cv2.putText
 
 ## Installation
 - Clone this repository
